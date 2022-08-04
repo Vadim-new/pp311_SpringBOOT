@@ -1,7 +1,7 @@
 package com.example.springbootapp.dao;
 
 
-import com.example.springbootapp.models.User;
+import com.example.springbootapp.model.User;
 
 import java.util.List;
 

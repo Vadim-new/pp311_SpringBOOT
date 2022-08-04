@@ -1,6 +1,6 @@
-package com.example.springbootapp.controllers;
+package com.example.springbootapp.controller;
 
-import com.example.springbootapp.models.User;
+import com.example.springbootapp.model.User;
 import com.example.springbootapp.service.UserServiceImp;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

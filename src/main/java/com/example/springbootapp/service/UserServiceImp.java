@@ -1,7 +1,7 @@
 package com.example.springbootapp.service;
 
 import com.example.springbootapp.dao.UserDao;
-import com.example.springbootapp.models.User;
+import com.example.springbootapp.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

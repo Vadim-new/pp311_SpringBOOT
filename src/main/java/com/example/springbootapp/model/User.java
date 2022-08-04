@@ -1,4 +1,4 @@
-package com.example.springbootapp.models;
+package com.example.springbootapp.model;
 
 import javax.persistence.*;
 import javax.validation.constraints.Email;

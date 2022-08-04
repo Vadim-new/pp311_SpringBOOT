@@ -1,6 +1,6 @@
 package com.example.springbootapp.dao;
 
-import com.example.springbootapp.models.User;
+import com.example.springbootapp.model.User;
 import org.springframework.context.annotation.Scope;
 import org.springframework.context.annotation.ScopedProxyMode;
 import org.springframework.stereotype.Repository;
